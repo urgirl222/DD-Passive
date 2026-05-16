@@ -432,7 +432,7 @@
         },
         {
             "dinoType": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP",
-            "chanceToProduce": 0.6,
+            "chanceToProduce": 0.2,
             "produces": [
                 {
                     "intervalSeconds": 1800,
@@ -440,8 +440,8 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalodon.PrimalItemResource_ApexDrop_Megalodon",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 25,
+                            "maxQuantityPerCycle": 1,
+                            "maxQuantityInTerminal": 5,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
@@ -567,7 +567,7 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Boa.PrimalItemResource_ApexDrop_Boa",
-                            "maxQuantityPerCycle": 0,
+                            "maxQuantityPerCycle": 5,
                             "maxQuantityInTerminal": 25,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
@@ -591,7 +591,7 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ApexDrop_Megalania.PrimalItemResource_ApexDrop_Megalania",
-                            "maxQuantityPerCycle": 0,
+                            "maxQuantityPerCycle": 5,
                             "maxQuantityInTerminal": 25,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
