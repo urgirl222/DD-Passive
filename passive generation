@@ -11,8 +11,8 @@
                     "items": [
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
-                            "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
+                            "maxQuantityPerCycle": 5,
+                            "maxQuantityInTerminal": 100,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0.1,
@@ -20,8 +20,8 @@
                                 {
                                     "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
                                     "quantityPerItem": 1,
-                                    "maxQuantityPerCycle": 0,
-                                    "maxQuantityInTerminal": 0
+                                    "maxQuantityPerCycle": 5,
+                                    "maxQuantityInTerminal": 100
                                 }
                             ],
                             "comsumesSelectMode": 0,
