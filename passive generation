@@ -411,13 +411,13 @@
             "chanceToProduce": 0.15,
             "produces": [
                 {
-                    "intervalSeconds": 900,
+                    "intervalSeconds": 1800,
                     "itemSelectMode": 0,
                     "items": [
                         {
                             "bpPath": "/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 50,
+                            "maxQuantityInTerminal": 5,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
