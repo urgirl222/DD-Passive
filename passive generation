@@ -707,6 +707,30 @@
                     ]
                 }
             ]
+        },
+        {
+            "dinoType": "Blueprint'/Game/Mods/NoUntameables/Leedsichthys/Leedsichthys_Character_BP_Tameable.Leedsichthys_Character_BP_Tameable'",
+            "chanceToProduce": 0.15,
+            "produces": [
+                {
+                    "intervalSeconds": 1800,
+                    "itemSelectMode": 0,
+                    "items": [
+                        {
+                            "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawPrimeMeat_Fish.PrimalItemConsumable_RawPrimeMeat_Fish",
+                            "maxQuantityPerCycle": 1,
+                            "maxQuantityInTerminal": 150,
+                            "quantityPerDino": 1,
+                            "alternateSelectMode": 0,
+                            "alternateItemsChance": 0,
+                            "alternateItems": [],
+                            "comsumesSelectMode": 0,
+                            "consumesItemsChance": 0,
+                            "consumesItems": []
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
