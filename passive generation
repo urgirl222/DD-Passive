@@ -417,7 +417,7 @@
                         {
                             "bpPath": "/Game/ASA/Dinos/Bison/PrimalItemConsumable_BisonMilk.PrimalItemConsumable_BisonMilk",
                             "maxQuantityPerCycle": 1,
-                            "maxQuantityInTerminal": 5,
+                            "maxQuantityInTerminal": 10,
                             "quantityPerDino": 1,
                             "alternateSelectMode": 0,
                             "alternateItemsChance": 0,
