@@ -709,7 +709,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Leedsichthys/Leedsichthys_Character_BP_Tameable.Leedsichthys_Character_BP_Tameable'",
+            "dinoType": "/Game/Mods/NoUntameables/Leedsichthys/Leedsichthys_Character_BP_Tameable.Leedsichthys_Character_BP_Tameable",
             "chanceToProduce": 0.15,
             "produces": [
                 {
