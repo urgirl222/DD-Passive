@@ -606,7 +606,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable'",
+            "dinoType": "/Game/Mods/NoUntameables/Ammonite/Ammonite_Character_Tameable.Ammonite_Character_Tameable",
             "chanceToProduce": 0.5,
             "produces": [
                 {
@@ -630,7 +630,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_Tameable.Cnidaria_Character_Tameable'",
+            "dinoType": "/Game/Mods/NoUntameables/Cnidaria/Cnidaria_Character_Tameable.Cnidaria_Character_Tameable",
             "chanceToProduce": 0.2,
             "produces": [
                 {
@@ -654,7 +654,7 @@
             ]
         },
         {
-            "dinoType": "/Game/Mods/NoUntameables/Eurypterid/Eurypterid_Character_Tameable.Eurypterid_Character_Tameable'",
+            "dinoType": "/Game/Mods/NoUntameables/Eurypterid/Eurypterid_Character_Tameable.Eurypterid_Character_Tameable",
             "chanceToProduce": 0.1,
             "produces": [
                 {
